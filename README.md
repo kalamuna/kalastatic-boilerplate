@@ -13,5 +13,9 @@ This demonstrates the following features:
 ## Usage
 
 ```
+npm install
+```
+
+```
 npm start
 ```
