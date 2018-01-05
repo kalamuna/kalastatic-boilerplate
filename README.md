@@ -19,3 +19,11 @@ npm install
 ```
 npm start
 ```
+
+## Deploy
+
+https://kalamuna.github.io/kalastatic-boilerplate/
+
+```
+npm run deploy
+```

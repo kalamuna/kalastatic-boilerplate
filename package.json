@@ -5,11 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "kalastatic build",
-    "start": "kalastatic start"
+    "start": "kalastatic start",
+    "deploy": "push-dir --verbose --dir=build --branch=gh-pages"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
     "kalastatic": "^4.0.0-alpha1"
+  },
+  "devDependencies": {
+    "push-dir": "^0.4.1"
   }
 }
