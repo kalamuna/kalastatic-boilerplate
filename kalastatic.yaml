@@ -30,3 +30,4 @@
 #  source:
 #    - src/components/
 #    - src/styles/
+kss: true
