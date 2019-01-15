@@ -1,10 +1,10 @@
 ---
 layout: layouts/html.twig
-title: DUG TO
+title: KalaStatic Demo
 description: This is a Hello World demonstration of using KalaStatic.
 ---
 
-# Hello, Drupal Toronto!
+# Hello, Prototype!
 
 This is a simple Hello World example of KalaStatic. In it, you see use of:
 

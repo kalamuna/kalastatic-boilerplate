@@ -12,13 +12,17 @@ This demonstrates the following features:
 
 ## Usage
 
-```
-npm install
-```
+1. Install [Node.js](https://nodejs.org) >= 7
 
-```
-npm start
-```
+2. Install npm dependencies
+    ```
+    npm install
+    ```
+
+3. Run the demo locally
+    ```
+    npm start
+    ```
 
 ## Deploy
 
